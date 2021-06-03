@@ -23,6 +23,7 @@
 .card-content {
   margin: 1.1rem;
   margin-top: 0.5rem;
+  color: white;
 }
 .card-title {
   margin-bottom: 0.5rem;
@@ -30,6 +31,7 @@
 .btn {
   display: flex;
   justify-content: center;
+  background-color: black;
 }
 .btn button {
   padding: 0.5rem;
